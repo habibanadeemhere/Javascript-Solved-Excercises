@@ -502,7 +502,7 @@ else if (percentage >= "70") {
 else if (percentage >= "60") {
   document.write("Your Grade is B <br> You need to improve ")
 } 
-else if (percentage >= "60") {
+else if (percentage >= "50") {
   document.write("You are fail <br> Sorry")
 } else {
   alert("invalid percentage")
@@ -521,6 +521,7 @@ else if (percentage >= "60") {
 
 
 */
+
 
 
 
